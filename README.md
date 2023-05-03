@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aggrey-dvlpa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @aggrey information technology expert 
+- 👀 I’m interested in programming, computer networks ,cyber security and AI
+- 🌱 I’m currently learning information systems and technology 
+- 💞️ I’m looking to collaborate on distributed operating system 
+- 📫 How to reach me Gmail:aggreywekesa077@gmail.com, Contact:+254758772131, Facebook: Selnes Thee Eagle 
 
 <!---
 aggrey-dvlpa/aggrey-dvlpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
